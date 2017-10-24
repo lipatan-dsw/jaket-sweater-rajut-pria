@@ -1,5 +1,5 @@
-title,permalink,body,published_at,filter,categories,tags,jenis,brand,description,image,product,price,sku,kondisi
-Jual Sweater Rajut Pria - WD 009 Murah,sweater-rajut-pria-wd-009,"
+title,permalink,body,published_at,filter,categories,tags,jenis,brand,description,image,image1,image2,image3,image4,image5,product,price,hargajual,profit,sku,kondisi
+Jual Sweater Rajut / Knit Kasual Pria - HR 075 Murah,sweater-rajut-knit-kasual-pria-hr-075,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -24,6 +24,7 @@ Jual Sweater Rajut Pria - WD 009 Murah,sweater-rajut-pria-wd-009,"
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -46,7 +47,7 @@ Jual Sweater Rajut Pria - WD 009 Murah,sweater-rajut-pria-wd-009,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Jaket Sweater Rajut Pria merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sweater Rajut Pria - WD 009 dengan bahan KNIT ini dijamin awet.<br/>Kode : WD 009<br/>Warna : HITAM<br/>Bahan : KNIT<br/>Ukuran : M - L<br/>Berat : 0.45 kg<br>
+         <p>Sweater Rajut / Knit Kasual Pria - HR 075 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Rajut Pria ini terbuat dari bahan COTTON.<br/>Kode : HR 075<br/>Warna : HITAM<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.6 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -61,8 +62,8 @@ Jual Sweater Rajut Pria - WD 009 Murah,sweater-rajut-pria-wd-009,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-23,html,jaket-sweater-rajut-pria,catenzo,jaket-sweater-rajut-pria,catenzo,"Jaket Sweater Rajut Pria Bahan KNIT, Ukuran M - L, Warna HITAM",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/577-wd-009.jpg,Sweater Rajut Pria - WD 009,Rp 103.900,WD 009,Baru
-Jual Sweater Rajut Pria - WD 004 Murah,sweater-rajut-pria-wd-004,"
+     </div><!--/category-tab-->",2017-10-16,html,jaket-sweater-rajut-pria,catenzo,jaket-sweater-rajut-pria,catenzo,"Jaket Sweater Rajut Pria Bahan COTTON, Ukuran S - XL, Warna HITAM",https://images.lipatan.com/katalog-catenzo-2017-2/foto-produk-satuan/500-hr-075.jpg,/,/,/,/,/,Sweater Rajut / Knit Kasual Pria - HR 075,Rp 124.400,Rp 145.900,Rp 21.500,HR 075,Baru
+Jual Sweater Rajut / Knit Kasual Pria - WD 016 Murah,sweater-rajut-knit-kasual-pria-wd-016,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -87,6 +88,7 @@ Jual Sweater Rajut Pria - WD 004 Murah,sweater-rajut-pria-wd-004,"
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -109,7 +111,7 @@ Jual Sweater Rajut Pria - WD 004 Murah,sweater-rajut-pria-wd-004,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Jaket Sweater Rajut Pria merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sweater Rajut Pria - WD 004 dengan bahan KNIT ini dijamin awet.<br/>Kode : WD 004<br/>Warna : MERAH<br/>Bahan : KNIT<br/>Ukuran : M - L<br/>Berat : 0.45 kg<br>
+         <p>Sweater Rajut / Knit Kasual Pria - WD 016 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Rajut Pria ini terbuat dari bahan RAJUT.<br/>Kode : WD 016<br/>Warna : ABU KOMBINASI<br/>Bahan : RAJUT<br/>Ukuran : M - L<br/>Berat : 0.6 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -124,8 +126,8 @@ Jual Sweater Rajut Pria - WD 004 Murah,sweater-rajut-pria-wd-004,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-23,html,jaket-sweater-rajut-pria,catenzo,jaket-sweater-rajut-pria,catenzo,"Jaket Sweater Rajut Pria Bahan KNIT, Ukuran M - L, Warna MERAH",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/578-wd-004.jpg,Sweater Rajut Pria - WD 004,Rp 103.900,WD 004,Baru
-Jual Sweater Rajut Pria - ZM 085 Murah,sweater-rajut-pria-zm-085,"
+     </div><!--/category-tab-->",2017-10-16,html,jaket-sweater-rajut-pria,catenzo,jaket-sweater-rajut-pria,catenzo,"Jaket Sweater Rajut Pria Bahan RAJUT, Ukuran M - L, Warna ABU KOMBINASI",https://images.lipatan.com/katalog-catenzo-2017-2/foto-produk-satuan/501-wd-016.jpg,/,/,/,/,/,Sweater Rajut / Knit Kasual Pria - WD 016,Rp 111.400,Rp 130.900,Rp 19.500,WD 016,Baru
+Jual Sweater Rajut / Knit Kasual Pria - WD 009 Murah,sweater-rajut-knit-kasual-pria-wd-009,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -150,6 +152,7 @@ Jual Sweater Rajut Pria - ZM 085 Murah,sweater-rajut-pria-zm-085,"
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -172,7 +175,7 @@ Jual Sweater Rajut Pria - ZM 085 Murah,sweater-rajut-pria-zm-085,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Jaket Sweater Rajut Pria merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sweater Rajut Pria - ZM 085 dengan bahan KNIT ini dijamin awet.<br/>Kode : ZM 085<br/>Warna : ABU ABU<br/>Bahan : KNIT<br/>Ukuran : AS<br/>Berat : 0.45 kg<br>
+         <p>Sweater Rajut / Knit Kasual Pria - WD 009 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Rajut Pria ini terbuat dari bahan RAJUT.<br/>Kode : WD 009<br/>Warna : HITAM<br/>Bahan : RAJUT<br/>Ukuran : M - L<br/>Berat : 0.6 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -187,8 +190,8 @@ Jual Sweater Rajut Pria - ZM 085 Murah,sweater-rajut-pria-zm-085,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-23,html,jaket-sweater-rajut-pria,catenzo,jaket-sweater-rajut-pria,catenzo,"Jaket Sweater Rajut Pria Bahan KNIT, Ukuran AS, Warna ABU ABU",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/579-zm-085.jpg,Sweater Rajut Pria - ZM 085,Rp 96.400,ZM 085,Baru
-Jual Sweater Rajut Pria - ZM 081 Murah,sweater-rajut-pria-zm-081,"
+     </div><!--/category-tab-->",2017-10-16,html,jaket-sweater-rajut-pria,catenzo,jaket-sweater-rajut-pria,catenzo,"Jaket Sweater Rajut Pria Bahan RAJUT, Ukuran M - L, Warna HITAM",https://images.lipatan.com/katalog-catenzo-2017-2/foto-produk-satuan/502-wd-009.jpg,/,/,/,/,/,Sweater Rajut / Knit Kasual Pria - WD 009,Rp 103.900,Rp 121.900,Rp 18.000,WD 009,Baru
+Jual Sweater Rajut / Knit Kasual Pria - WD 004 Murah,sweater-rajut-knit-kasual-pria-wd-004,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -213,6 +216,7 @@ Jual Sweater Rajut Pria - ZM 081 Murah,sweater-rajut-pria-zm-081,"
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -235,7 +239,7 @@ Jual Sweater Rajut Pria - ZM 081 Murah,sweater-rajut-pria-zm-081,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Jaket Sweater Rajut Pria merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sweater Rajut Pria - ZM 081 dengan bahan KNIT ini dijamin awet.<br/>Kode : ZM 081<br/>Warna : HITAM KOMBINASI<br/>Bahan : KNIT<br/>Ukuran : AS<br/>Berat : 0.45 kg<br>
+         <p>Sweater Rajut / Knit Kasual Pria - WD 004 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Rajut Pria ini terbuat dari bahan RAJUT.<br/>Kode : WD 004<br/>Warna : MERAH<br/>Bahan : RAJUT<br/>Ukuran : M - L<br/>Berat : 0.6 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -250,8 +254,8 @@ Jual Sweater Rajut Pria - ZM 081 Murah,sweater-rajut-pria-zm-081,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-23,html,jaket-sweater-rajut-pria,catenzo,jaket-sweater-rajut-pria,catenzo,"Jaket Sweater Rajut Pria Bahan KNIT, Ukuran AS, Warna HITAM KOMBINASI",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/580-zm-081.jpg,Sweater Rajut Pria - ZM 081,Rp 96.400,ZM 081,Baru
-Jual Sweater Rajut Pria - WD 016 Murah,sweater-rajut-pria-wd-016,"
+     </div><!--/category-tab-->",2017-10-16,html,jaket-sweater-rajut-pria,catenzo,jaket-sweater-rajut-pria,catenzo,"Jaket Sweater Rajut Pria Bahan RAJUT, Ukuran M - L, Warna MERAH",https://images.lipatan.com/katalog-catenzo-2017-2/foto-produk-satuan/503-wd-004.jpg,/,/,/,/,/,Sweater Rajut / Knit Kasual Pria - WD 004,Rp 103.900,Rp 121.900,Rp 18.000,WD 004,Baru
+Jual Sweater Rajut / Knit Kasual Pria - ZM 085 Murah,sweater-rajut-knit-kasual-pria-zm-085,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -276,6 +280,7 @@ Jual Sweater Rajut Pria - WD 016 Murah,sweater-rajut-pria-wd-016,"
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -298,7 +303,7 @@ Jual Sweater Rajut Pria - WD 016 Murah,sweater-rajut-pria-wd-016,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Jaket Sweater Rajut Pria merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sweater Rajut Pria - WD 016 dengan bahan KNIT ini dijamin awet.<br/>Kode : WD 016<br/>Warna : ABU KOMBINASI<br/>Bahan : KNIT<br/>Ukuran : M - L<br/>Berat : 0.45 kg<br>
+         <p>Sweater Rajut / Knit Kasual Pria - ZM 085 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Rajut Pria ini terbuat dari bahan RAJUT.<br/>Kode : ZM 085<br/>Warna : ABU ABU<br/>Bahan : RAJUT<br/>Ukuran : AS<br/>Berat : 0.6 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -313,8 +318,8 @@ Jual Sweater Rajut Pria - WD 016 Murah,sweater-rajut-pria-wd-016,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-23,html,jaket-sweater-rajut-pria,catenzo,jaket-sweater-rajut-pria,catenzo,"Jaket Sweater Rajut Pria Bahan KNIT, Ukuran M - L, Warna ABU KOMBINASI",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/581-wd-016.jpg,Sweater Rajut Pria - WD 016,Rp 111.400,WD 016,Baru
-Jual Jaket / Sweater Rajut Pria - RIY 004 Murah,jaket-sweater-rajut-pria-riy-004,"
+     </div><!--/category-tab-->",2017-10-16,html,jaket-sweater-rajut-pria,catenzo,jaket-sweater-rajut-pria,catenzo,"Jaket Sweater Rajut Pria Bahan RAJUT, Ukuran AS, Warna ABU ABU",https://images.lipatan.com/katalog-catenzo-2017-2/foto-produk-satuan/504-zm-085.jpg,/,/,/,/,/,Sweater Rajut / Knit Kasual Pria - ZM 085,Rp 96.400,Rp 112.900,Rp 16.500,ZM 085,Baru
+Jual Sweater Rajut / Knit Kasual Pria - WD 017 Murah,sweater-rajut-knit-kasual-pria-wd-017,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -339,6 +344,7 @@ Jual Jaket / Sweater Rajut Pria - RIY 004 Murah,jaket-sweater-rajut-pria-riy-004
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -361,7 +367,7 @@ Jual Jaket / Sweater Rajut Pria - RIY 004 Murah,jaket-sweater-rajut-pria-riy-004
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Jaket Sweater Rajut Pria merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket / Sweater Rajut Pria - RIY 004 dengan bahan KNIT ini dijamin awet.<br/>Kode : RIY 004<br/>Warna : ABU ABU<br/>Bahan : KNIT<br/>Ukuran : M - L<br/>Berat : 1.4 kg<br>
+         <p>Sweater Rajut / Knit Kasual Pria - WD 017 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Rajut Pria ini terbuat dari bahan RAJUT.<br/>Kode : WD 017<br/>Warna : HITAM<br/>Bahan : RAJUT<br/>Ukuran : M - L<br/>Berat : 0.6 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -376,8 +382,8 @@ Jual Jaket / Sweater Rajut Pria - RIY 004 Murah,jaket-sweater-rajut-pria-riy-004
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,jaket-sweater-rajut-pria,raindoz,jaket-sweater-rajut-pria,raindoz,"Jaket Sweater Rajut Pria Bahan KNIT, Ukuran M - L, Warna ABU ABU",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/90-riy-004.jpg,Jaket / Sweater Rajut Pria - RIY 004,Rp 107.900,RIY 004,Baru
-Jual Jaket / Sweater Rajut Pria - RZM 096 Murah,jaket-sweater-rajut-pria-rzm-096,"
+     </div><!--/category-tab-->",2017-10-16,html,jaket-sweater-rajut-pria,catenzo,jaket-sweater-rajut-pria,catenzo,"Jaket Sweater Rajut Pria Bahan RAJUT, Ukuran M - L, Warna HITAM",https://images.lipatan.com/katalog-catenzo-2017-2/foto-produk-satuan/505-wd-017.jpg,/,/,/,/,/,Sweater Rajut / Knit Kasual Pria - WD 017,Rp 106.900,Rp 125.900,Rp 19.000,WD 017,Baru
+Jual Sweater Rajut / Knit Kasual Pria - ZM 081 Murah,sweater-rajut-knit-kasual-pria-zm-081,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -402,6 +408,7 @@ Jual Jaket / Sweater Rajut Pria - RZM 096 Murah,jaket-sweater-rajut-pria-rzm-096
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -424,7 +431,7 @@ Jual Jaket / Sweater Rajut Pria - RZM 096 Murah,jaket-sweater-rajut-pria-rzm-096
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Jaket Sweater Rajut Pria merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket / Sweater Rajut Pria - RZM 096 dengan bahan KNIT ini dijamin awet.<br/>Kode : RZM 096<br/>Warna : HITAM KOMBINASI<br/>Bahan : KNIT<br/>Ukuran : All Size (1 Ukuran)<br/>Berat : 1.4 kg<br>
+         <p>Sweater Rajut / Knit Kasual Pria - ZM 081 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Rajut Pria ini terbuat dari bahan RAJUT.<br/>Kode : ZM 081<br/>Warna : HITAM KOMBINASI<br/>Bahan : RAJUT<br/>Ukuran : AS<br/>Berat : 0.6 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -439,4 +446,132 @@ Jual Jaket / Sweater Rajut Pria - RZM 096 Murah,jaket-sweater-rajut-pria-rzm-096
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,jaket-sweater-rajut-pria,raindoz,jaket-sweater-rajut-pria,raindoz,"Jaket Sweater Rajut Pria Bahan KNIT, Ukuran All Size (1 Ukuran), Warna HITAM KOMBINASI",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/91-rzm-096.jpg,Jaket / Sweater Rajut Pria - RZM 096,Rp 91.900,RZM 096,Baru
+     </div><!--/category-tab-->",2017-10-16,html,jaket-sweater-rajut-pria,catenzo,jaket-sweater-rajut-pria,catenzo,"Jaket Sweater Rajut Pria Bahan RAJUT, Ukuran AS, Warna HITAM KOMBINASI",https://images.lipatan.com/katalog-catenzo-2017-2/foto-produk-satuan/506-zm-081.jpg,/,/,/,/,/,Sweater Rajut / Knit Kasual Pria - ZM 081,Rp 96.400,Rp 112.900,Rp 16.500,ZM 081,Baru
+Jual Sweater Rajut / Knit Kasual Pria - RIY 004 Murah,sweater-rajut-knit-kasual-pria-riy-004,"
+     <div class=""product-details""><!--product-details-->
+      <div class=""col-sm-5"">
+       <div class=""view-product"">
+        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
+        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
+       </div>
+      </div>
+
+      <div class=""col-sm-7"">
+       <div class=""product-information""><!--/product-information-->
+        <h1>{{ page.product }}</h1>
+        <p>SKU: {{ page.sku }}</p>
+        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
+        <span>
+         <span>{{ page.price }}</span>        
+         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
+          <script type=""text/javascript"">
+          <!--
+          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
+          //-->
+          </script>
+          </a>
+         </label>
+        </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
+        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
+        <p><b>Deskripsi:</b> {{ page.description }}</p>
+        {% include buy.html %}
+       </div><!--/product-information-->
+      </div>
+     </div><!--/product-details-->
+     
+     <div class=""category-tab shop-details-tab""><!--category-tab-->
+      <div class=""col-sm-12"">
+       <ul class=""nav nav-tabs"">
+        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
+       </ul>
+      </div>
+      <div class=""tab-content"">
+       <div class=""tab-pane fade active in"" id=""keterangan"" >
+        <div class=""col-sm-12"">
+         <h2>{{ page.product }}</h2>         
+         <ol class=""breadcrumb"">
+            <li class=""active"">Tag :</li>
+            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
+            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
+         </ol>         
+         <p>Sweater Rajut / Knit Kasual Pria - RIY 004 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Rajut Pria ini terbuat dari bahan RAJUT.<br/>Kode : RIY 004<br/>Warna : ABU ABU<br/>Bahan : RAJUT<br/>Ukuran : M - L<br/>Berat : 0.4 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         </p>
+
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         Gudang : WRH-1<br>
+         Lokasi : Bandung</p>
+
+         {% include share.html %}
+
+         {% include disqus.html %}
+         
+        </div>
+       </div>       
+       
+      </div>
+     </div><!--/category-tab-->",2017-10-17,html,jaket-sweater-rajut-pria,raindoz,jaket-sweater-rajut-pria,raindoz,"Jaket Sweater Rajut Pria Bahan RAJUT, Ukuran M - L, Warna ABU ABU",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/80-riy-004.jpg,/,/,/,/,/,Sweater Rajut / Knit Kasual Pria - RIY 004,Rp 107.900,Rp 126.900,Rp 19.000,RIY 004,Baru
+Jual Sweater Rajut / Knit Kasual Pria - RZM 096 Murah,sweater-rajut-knit-kasual-pria-rzm-096,"
+     <div class=""product-details""><!--product-details-->
+      <div class=""col-sm-5"">
+       <div class=""view-product"">
+        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
+        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
+       </div>
+      </div>
+
+      <div class=""col-sm-7"">
+       <div class=""product-information""><!--/product-information-->
+        <h1>{{ page.product }}</h1>
+        <p>SKU: {{ page.sku }}</p>
+        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
+        <span>
+         <span>{{ page.price }}</span>        
+         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
+          <script type=""text/javascript"">
+          <!--
+          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
+          //-->
+          </script>
+          </a>
+         </label>
+        </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
+        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
+        <p><b>Deskripsi:</b> {{ page.description }}</p>
+        {% include buy.html %}
+       </div><!--/product-information-->
+      </div>
+     </div><!--/product-details-->
+     
+     <div class=""category-tab shop-details-tab""><!--category-tab-->
+      <div class=""col-sm-12"">
+       <ul class=""nav nav-tabs"">
+        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
+       </ul>
+      </div>
+      <div class=""tab-content"">
+       <div class=""tab-pane fade active in"" id=""keterangan"" >
+        <div class=""col-sm-12"">
+         <h2>{{ page.product }}</h2>         
+         <ol class=""breadcrumb"">
+            <li class=""active"">Tag :</li>
+            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
+            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
+         </ol>         
+         <p>Sweater Rajut / Knit Kasual Pria - RZM 096 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Rajut Pria ini terbuat dari bahan RAJUT.<br/>Kode : RZM 096<br/>Warna : HITAM KOMBINASI<br/>Bahan : RAJUT<br/>Ukuran : AS<br/>Berat : 0.4 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         </p>
+
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         Gudang : WRH-1<br>
+         Lokasi : Bandung</p>
+
+         {% include share.html %}
+
+         {% include disqus.html %}
+         
+        </div>
+       </div>       
+       
+      </div>
+     </div><!--/category-tab-->",2017-10-17,html,jaket-sweater-rajut-pria,raindoz,jaket-sweater-rajut-pria,raindoz,"Jaket Sweater Rajut Pria Bahan RAJUT, Ukuran AS, Warna HITAM KOMBINASI",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/81-rzm-096.jpg,/,/,/,/,/,Sweater Rajut / Knit Kasual Pria - RZM 096,Rp 91.900,Rp 107.900,Rp 16.000,RZM 096,Baru
